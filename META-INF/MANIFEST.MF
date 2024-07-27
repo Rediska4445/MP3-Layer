@@ -1,0 +1,1 @@
+Main-Class: rf.ebanina.ebanina.ebanina/rf.ebanina.ebanina.Launch
